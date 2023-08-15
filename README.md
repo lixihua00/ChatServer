@@ -1,2 +1,2 @@
 # chatserver
-基于muduo网络库实现的ChatServer聊天服务器，使用nginx配置了负载均衡，使用基于发布-订阅的redis服务器中间实现跨服务器通信
+基于muduo网络库实现的ChatServer聊天服务器，使用nginx配置了负载均衡，使用基于发布-订阅的redis服务器中间件实现跨服务器通信
