@@ -1,2 +1,2 @@
 # chatserver
-可以工作在nginx tcp负载均衡环境中的集群聊天服务器和客户端源码  基于muduo实现
+基于muduo网络库实现的ChatServer聊天服务器，使用nginx配置了负载均衡，使用基于发布-订阅的redis服务器中间实现跨服务器通信
